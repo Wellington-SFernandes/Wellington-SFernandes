@@ -8,7 +8,8 @@
 •React.Js
 •Python
 •Pandas
-•Jupyter Notebook 
+•Jupyter Notebook
+•IA 
 - 💞️ Aprocura de colaboradores...
 - 📫 Wellsf.1993@gmail.com
 - 😄 Pronome: Fernandes
