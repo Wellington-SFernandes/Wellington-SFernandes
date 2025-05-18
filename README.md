@@ -1,7 +1,7 @@
 <!-- Perfil README - Inspirado na imagem enviada -->
 
 <h1 align="center">Olá, eu sou Wellington! 👋</h1>
-<p align="center">Meus amigos me chamam de Welling</p>
+
 
 <div align="center">
 
