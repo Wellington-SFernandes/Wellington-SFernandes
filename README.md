@@ -10,7 +10,7 @@
 
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-SFernandes&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="165" />
-
+<br>
   <!-- Nota personalizada (pontuação) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-SFernandes&theme=github_dark" alt="Pontuação" height="120" />
 
