@@ -1,16 +1,18 @@
 ---
 
-> whoami
-Wellington - Cybersecurity Analyst
-
-> focus
-Pentest | Network Security | Ethical Hacking
-
-> tools
-Kali Linux | Nmap | Metasploit | Medusa
-
-> status
-Learning. Practicing. Evolving.
+🧠 >_ INITIALIZING CYBER PROFILE
+�
+[+] Inicializando ambiente...
+[+] Carregando módulos de rede...
+[+] Importando ferramentas de exploração...
+[✔] Sistema operacional: ONLINE
+👨‍💻 root@cybersec:~#
+> user: ethical_hacker_in_progress
+> role: estudante_de_ciberseguranca
+> foco: pentest | redes | vulnerabilidades
+> ambiente: kali_linux_lab
+> status: evoluindo_constante
+> target: first_job_in_cybersecurity
 
 ---
 
