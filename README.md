@@ -1,6 +1,4 @@
----
 
-```bash
 > whoami
 Wellington - Cybersecurity Analyst
 
@@ -12,7 +10,6 @@ Kali Linux | Nmap | Metasploit | Medusa
 
 > status
 Learning. Practicing. Evolving.
-```
 
 ---
 
