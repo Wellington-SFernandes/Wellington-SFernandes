@@ -126,9 +126,8 @@ Todos os testes são realizados em ambientes controlados e autorizados.
 
 📡 >_ CONTATO
 
-[contato]
-email     -> wellsf.1993@gmail.com
-linkedin  -> linkedin.com/in/wellington-fernandes93
+email: wellsf.1993@gmail.com
+linkedin: https://www.linkedin.com/in/wellington-fernandes93
 
 ---
 
