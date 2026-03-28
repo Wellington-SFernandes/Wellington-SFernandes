@@ -1,15 +1,45 @@
-# Certifications
+# Repository Title
 
+ASCII Art Goes Here
+
+# Dynamic Dashboard
+
+Your existing content here.
+
+# Operating Systems
+
+- Kali Linux: Used for penetration testing
+- Windows: Used for development
+
+# Security Tools
+
+Your existing content here.
+
+# Programming Languages
+
+Your existing content here.
+
+# Certifications
 ## Cybersecurity & Ethical Hacking
-- Hacker Ético (DIO)
-- Introdução à Cibersegurança (Cisco Networking Academy)
-- Introdução à Pentest (Desec)
-- Fundamento de Teste de Invasão (DIO)
-- Tópicos em Engenharia Social (DIO)
+
+Your existing content here.
 
 ## Programming & Web Development
-- Python (Santander Academy)
-- JavaScript / HTML5 / CSS3 (OneBitCode)
+
+Your existing content here.
 
 ## Linux & System Administration
-- Gerenciando Usuários no Linux (DIO)
+
+Your existing content here.
+
+# GitHub Stats
+
+Your existing content here.
+
+# Social Links
+
+Your existing content here.
+
+# Professional Summary
+
+Your existing content here.
