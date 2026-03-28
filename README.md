@@ -1,32 +1,52 @@
-# WELLINGTON FERNANDES
+# Welcome
 
-```
-       /\  /
-      /  \/  
-     /  \/\/\  
-    /\/\/  /\ 
-   /  \/\  \/\ 
-  /\/\  /\/\/  
- /  /\/ \  /\  
-/\/  \/  \/  \  
-```
+```plaintext
+  ________________________    
+ /                       /|   
+/_______________________/ |   
+|                      |  |   
+|    Watch Dogs 2      |  |   
+|                      |  |   
+|______________________| /    
+|______________________/     
+```  
 
-## Cybersecurity Tools
-- Nmap
-- Metasploit
-- Burp Suite
-- Wireshark
+## Dynamic Dashboard
+- **Skill Bars**:
+  - Penetration Testing: ████████ 90%
+  - Threat Analysis: ███████ 70%
+  - Malware Research: ███████ 80%
 
-## Ethical Hacking Specialties
-- Penetration Testing
-- Vulnerability Assessment
-- Security Audits
+## Network Visualization
+![Network Visualization](link_to_network_visualization_image)
 
-## CTF Badges
-![Badge 1](link-to-badge1)
-![Badge 2](link-to-badge2)
+## Security Tools
+- **Burp Suite**: Web vulnerability scanner
+- **Metasploit**: Penetration testing framework
+- **Nmap**: Network scanning tool
+- **Wireshark**: Network protocol analyzer
+
+## Programming Languages
+- **Python**: Used for scripting and automation
+- **Bash**: Shell scripting and command line tasks
+- **JavaScript**: Web application development
+
+## Certifications
+- Certified Ethical Hacker (CEH)
+- Offensive Security Certified Professional (OSCP)
+
+## GitHub Stats
+![GitHub Stats](link_to_github_stats_image)
+
+- Achieved contributions in green and blue colors.
+
+## Social Links
+- [LinkedIn](link_to_linkedin)
+- [Twitter](link_to_twitter)
+- [Personal Website](link_to_personal_website)
+
+## Professional Summary
+Committed ethical hacker with a focus on improving cybersecurity practices through innovative solutions and comprehensive threat analysis.
 
 ---
-
-### Professional Summary
-As a dedicated ethical hacker and cybersecurity expert, I specialize in locating vulnerabilities and securing digital assets. I have hands-on experience with various tools and methodologies to ensure the safety of information systems. My commitment to ethical practices ensures I operate as a responsible member of the cybersecurity community, aiding organizations in achieving robust security posture.
+Updated on 2026-03-28 06:50:13 UTC.
