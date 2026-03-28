@@ -1,67 +1,52 @@
 # 👨‍💻 Cybersecurity Analyst | Ethical Hacker
 
-🔐 Profissional em formação na área de **Cibersegurança**, com foco em:
-- Pentest
-- Segurança de Redes
-- Análise de Vulnerabilidades
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghostcyber/assets/main/terminal-gif.gif" width="500"/>
+</p>
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Experiência prática com:
-- Kali Linux
-- Nmap
-- Wireshark
-- Tcpdump
-- Enum4linux
-- Medusa
-- Metasploit
-
-🎯 Objetivo: Atuar profissionalmente com Segurança da Informação e Pentest.
+## 🔐 Sobre mim
+Sou profissional em formação na área de **Cibersegurança**, com foco em **Pentest, Segurança de Redes e Análise de Vulnerabilidades**.  
+Tenho experiência prática com ferramentas de auditoria de rede, testes de força bruta, varredura de portas, captura de pacotes e análise de sistemas vulneráveis.
 
 ---
 
-## 🧠 Em aprendizado
-
-- Exploração de vulnerabilidades
-- Engenharia reversa
-- Redes e protocolos
-- CTFs (Capture The Flag)
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2E2E2E?style=for-the-badge)
+## 💻 Habilidades e Tecnologias
+- Pentest & Ethical Hacking
+- Redes TCP/IP e protocolos
+- Kali Linux & Metasploit
+- Enumeração e Exploração de Sistemas
+- Segurança de Aplicações Web
+- Python, Bash e automação de scripts
+- Monitoramento de redes e sniffing (Wireshark, tcpdump)
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wellington-SFernandes&show_icons=true&theme=radical)
-
----
-
-## 🔗 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/wellington-fernandes93
-- 📧 Email: seuemail@email.com
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghostcyber&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
 ---
 
-## 🧠 Projetos em destaque
-
-🔹 Cyber Lab (em desenvolvimento)  
-🔹 Testes de Pentest em ambiente controlado  
-🔹 Scripts de automação para segurança  
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ghostcyber)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ghostcyber)
+[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:ghostcyber@example.com)
 
 ---
 
-## 🖼️ Banner / Imagem do Perfil
+## 🛠 Projetos
+- **Laboratório de Pentest** – Scripts e testes de vulnerabilidades em ambientes controlados.
+- **Ferramentas de Enumeração** – Automatização de coleta de informações de redes e serviços.
+- **Projetos de Automação** – Scripts em Python e Bash para auditoria de sistemas.
 
-<img src="https://raw.githubusercontent.com/Wellington-SFernandes/Wellington-SFernandes/main/banner.png" width="100%" />
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghostcyber/assets/main/cybersecurity-banner.png" width="700"/>
+</p>
+
+---
+
