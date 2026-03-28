@@ -1,21 +1,45 @@
-# Wellington-SFernandes Portfolio
+# My Portfolio
 
-## Welcome to my portfolio!
+```plaintext
+   _____                 _                
+  / ____|               | |               
+ | |  __  ___   ___ __ _| |_ ___ _ __ ___ 
+ | | |_ |/ _ \ / __/ _` | __/ _ \ '__/ __|
+ | |__| | (_) | (_| (_| | ||  __/ |  \__ \ 
+  \_____|\___/ \___\__,_|\__\___|_|  |___/ 
+```  
 
-Hello! I am Wellington-SFernandes, a passionate developer with a keen interest in creating impactful software solutions.
+## Projects
+- Project A: Description
+- Project B: Description
 
-### About Me
-I specialize in full-stack development, data analysis, and machine learning. My goal is to leverage technology to solve real-world problems and enhance user experience.
+## Certifications
+- Cybersecurity and Ethical Hacking
+- Programming and Web Development
+- Linux and System Administration
 
-### Projects
-- **Project A**: Description of project A...
-- **Project B**: Description of project B...
-- **Project C**: Description of project C...
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wellington-SFernandes&show_icons=true)
 
-### Skills
-- Programming Languages: Python, JavaScript, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, AWS
+## Security Tools
+- Kali Linux
+- Metasploit
+- Burp Suite
+- Wireshark
 
-### Contact
-Feel free to reach out via [LinkedIn](link to LinkedIn) or [Email](mailto:your-email@example.com) for collaborations or inquiries!
+## Programming Languages
+- Python
+- JavaScript
+- Java
+- Bash
+
+## Operating Systems
+- Kali Linux
+- Windows
+
+## Social Links
+- [LinkedIn](Your LinkedIn URL)
+- [Twitter](Your Twitter URL)
+
+## Professional Summary
+Dynamic cybersecurity professional with a strong foundation in programming and system administration, passionate about leveraging technical skills in practical scenarios.
