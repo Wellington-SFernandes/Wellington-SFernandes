@@ -1,137 +1,94 @@
-🧠 >_ INITIALIZING CYBER PROFILE
+---
 
-"Typing SVG" (https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=1000&lines=booting_system...;loading_modules...;establishing_connection...;access_granted)
+> whoami
+Wellington - Cybersecurity Analyst
 
-[+] Inicializando ambiente...
-[+] Carregando módulos de rede...
-[+] Importando ferramentas de exploração...
-[✔] Sistema operacional: ONLINE
+> focus
+Pentest | Network Security | Ethical Hacking
+
+> tools
+Kali Linux | Nmap | Metasploit | Medusa
+
+> status
+Learning. Practicing. Evolving.
 
 ---
 
-👨‍💻 root@cybersec:~#
+🚀 Sobre mim
 
-> user: ethical_hacker_in_progress
-> role: estudante_de_ciberseguranca
-> foco: pentest | redes | vulnerabilidades
-> ambiente: kali_linux_lab
-> status: evoluindo_constante
-> target: first_job_in_cybersecurity
+🔐 Profissional em formação na área de Cibersegurança, com experiência prática em ambientes controlados utilizando Kali Linux.
 
-🔐 Estudante de Cibersegurança com foco em Hacking Ético
-💣 Atuação prática em laboratório com simulação de ataques e análise de vulnerabilidades
-🧠 Construindo mentalidade ofensiva (Red Team) e defensiva (Blue Team)
+- 🎯 Objetivo: atuar como Analista de Segurança / Pentester
+- 🧠 Estudo contínuo em redes, exploração e vulnerabilidades
+- 🛠️ Construindo laboratório prático de testes (Cyber Lab)
+- 📚 Aprendizado baseado em prática real (hands-on)
 
 ---
 
-⚡ >_ SKILLSET
+🧰 Tecnologias & Ferramentas
 
-[REDES]
-- TCP/IP | DNS | DHCP | ARP
+💻 Linguagens
 
-[ENUMERAÇÃO E SCAN]
-- Nmap | Enum4linux
+- 🟨 JavaScript
+- 🐍 Python (em aprendizado)
 
-[ATAQUES]
-- Medusa (Brute Force / Password Spray)
+🔐 Ferramentas de Cibersegurança
 
-[ANÁLISE DE TRÁFEGO]
-- Wireshark | Tcpdump
+- 🐉 Kali Linux
+- 🔍 Nmap
+- ⚡ Medusa
+- 🕵️‍♂️ Wireshark
+- 🧰 Metasploit
+- 🧪 Enum4linux
 
-[SISTEMAS]
-- Linux (Kali Linux | Debian)
-- Windows
-- Terminal Linux (navegação e operações)
+🖥️ Sistemas Operacionais
 
-[PROGRAMAÇÃO]
-- JavaScript | HTML5 | CSS3
-- Python (automação e segurança - em evolução)
-
-[TECNOLOGIAS E PRÁTICA]
-- Laboratórios em ambientes vulneráveis
-- Simulação de ataques reais
-- Análise de comportamento de rede
+- 🐧 Linux (Kali Linux, Ubuntu)
+- 🪟 Windows
 
 ---
 
-🧪 >_ FORMAÇÃO & CERTIFICAÇÕES
+🧪 Laboratório & Estudos
 
-[CISCO]
-- Introdução à Cibersegurança ✔
-- Curso: Ethical Hacker (em andamento)
-
-[DESEC]
-- Introdução a Pentest ✔
-
-[SANTANDER ACADEMY]
-- Python para desenvolvimento ✔
-
-[ONEBITCODE]
-- JavaScript | HTML5 | CSS3 ✔
-
-[PRÁTICA CONTÍNUA]
-- Hack The Box (em andamento)
-- TryHackMe (em andamento)
-
-[OUTROS ESTUDOS]
-- Engenharia de Prompt com IA
-- Vibecode com IA
+- 🔐 Testes de intrusão em ambientes controlados
+- 🌐 Varredura de redes e análise de portas
+- 📡 Captura e análise de pacotes
+- 🔎 Enumeração de serviços e usuários
+- 💣 Simulação de ataques (Brute Force, SMB, FTP)
 
 ---
 
-🧪 >_ LABS & PRÁTICA
+📌 Projetos em Destaque
 
-[✔] cyber-lab-medusa
-    - Ataque de força bruta (FTP/SMB)
-    - Enumeração + exploração controlada
+📂 Repositórios com foco em prática real de:
 
-[✔] network-analysis-lab
-    - Captura de pacotes
-    - Identificação de tráfego suspeito
-
-[⏳] evolução contínua
-    - exploração de serviços
-    - análise de vulnerabilidades reais
+- Pentest
+- Enumeração
+- Exploração de serviços
+- Automação com scripts
 
 ---
 
-🛰️ >_ MISSÃO ATUAL
+📫 Contato
 
-> aprofundar em exploração de vulnerabilidades
-> evoluir em pentest na prática
-> dominar análise de redes
-> participar de CTFs (Hack The Box / TryHackMe)
-> conquistar primeira oportunidade em cibersegurança
+- 💼 LinkedIn: [https://www.linkedin.com/in/wellington-fernandes93](https://www.linkedin.com/in/wellington-fernandes93)
+- 📧 Email: [wellsf.1993@gmail.com](mailto:wellsf.1993@gmail.com)
+---
+
+⚡ Status
+
+🟢 Atualmente focado em:
+
+- Aprimorar técnicas de Pentest
+- Aprofundar conhecimento em redes
+- Evoluir para participação em CTFs
 
 ---
 
-📊 >_ SYSTEM STATUS
+🧠 Filosofia
 
-"GitHub stats" (https://github-readme-stats.vercel.app/api?username=Wellington-SFernandes&show_icons=true&theme=radical)
-
----
-
-🐍 >_ ACTIVITY TRACE
-
-"Snake animation" (https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+«"Segurança não é um produto, é um processo." 🔐»
 
 ---
 
-⚠️ >_ DISCLAIMER
-
-Este perfil e todos os projetos associados são utilizados exclusivamente para fins educacionais.
-Todos os testes são realizados em ambientes controlados e autorizados.
-
----
-
-📡 >_ CONTATO
-
-email: wellsf.1993@gmail.com
-linkedin: https://www.linkedin.com/in/wellington-fernandes93
-
----
-
-🧬 >_ FINAL LOG
-
-> "Não é sobre quebrar sistemas.
-> É sobre entender como eles falham."
+⭐ Se curtir meus projetos, não esqueça de deixar uma estrela!
