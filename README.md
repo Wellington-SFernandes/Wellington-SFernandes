@@ -82,8 +82,8 @@
 ---
 
 📫 Contato:
-  - 💼 LinkedIn: "https\://www.linkedin.com/in/wellington-fernandes93"
-  - 📧 Email: "mailto\://wellsf.1993@gmail.com"
+  - "💼 LinkedIn: https://www.linkedin.com/in/wellington-fernandes93"
+  - "📧 Email: wells.f1993@gmail.com"
 ---
 
 ⚡ Status
