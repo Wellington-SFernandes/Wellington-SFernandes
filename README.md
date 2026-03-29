@@ -86,7 +86,6 @@
   <img src="https://raw.githubusercontent.com/Wellington-SFernandes/Wellington-SFernandes/main/assets/skills-spider-web.png" width="400"/>
 </p>
 
-*Gráfico estilo teia de aranha cyberpunk representando minhas skills técnicas.*
 
 ---
 
