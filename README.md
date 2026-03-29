@@ -1,7 +1,6 @@
 # 🧠 >_ CYBER PROFILE
 
 ![terminal-gif](https://raw.githubusercontent.com/Wellington-SFernandes/Wellington-SFernandes/main/assets/terminal-gif.gif)
-
 [+] Inicializando ambiente...
 [+] Carregando módulos de rede...
 [+] Importando ferramentas de exploração...
@@ -14,7 +13,6 @@ foco: pentest | redes | vulnerabilidades
 ambiente: kali_linux_lab
 status: evoluindo_constante
 target: first_job_in_cybersecurity
-
 
 ---
 
@@ -34,22 +32,21 @@ target: first_job_in_cybersecurity
 
 💻 **Linguagens**
 
-- 🟨 JavaScript  
-- 🐍 Python (em aprendizado, focado em automação e scripts de pentest)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 
 🔐 **Ferramentas de Cibersegurança**
 
-- 🐉 Kali Linux (ambiente principal de testes)  
-- 🔍 Nmap – varredura e mapeamento de redes  
-- 🪼 Medusa / 🦑 Hydra – brute force SMB, FTP e SSH  
-- 🦈 Wireshark – captura e análise de pacotes  
-- 🛡️ Metasploit – exploração de vulnerabilidades em ambientes controlados  
-- 🧩 Enum4linux – enumeração de usuários, compartilhamentos e políticas SMB  
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-black?logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-red?logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-purple?logo=metasploit&logoColor=white)
+![Enum4linux](https://img.shields.io/badge/Enum4linux-grey?logo=linux&logoColor=white)
 
 🖥️ **Sistemas Operacionais**
 
-- 🐧 Linux (Kali Linux, Ubuntu)  
-- 🪟 Windows (para testes de compatibilidade e análise de rede)  
+![Linux](https://img.shields.io/badge/Linux-penguin?logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white)
 
 ---
 
@@ -78,6 +75,12 @@ target: first_job_in_cybersecurity
 - **TryHackMe** – Complete Beginner to Pro  
 - **HackTheBox** – Laboratório prático de pentest  
 - **Certificados Cisco Networking Basics** – fundamentos de rede  
+
+---
+
+## 📊 Skills & Gráfico
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-SFernandes&layout=compact&theme=radical)
 
 ---
 
